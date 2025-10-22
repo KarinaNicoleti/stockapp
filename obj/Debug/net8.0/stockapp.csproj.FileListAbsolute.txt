@@ -12,3 +12,4 @@ C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\refint\stockapp.dll
 C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.pdb
 C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.genruntimeconfig.cache
 C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\ref\stockapp.dll
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.sourcelink.json
