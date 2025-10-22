@@ -1,0 +1,14 @@
+C:\Users\karina.nicoleti\Desktop\stockapp\bin\Debug\net8.0\stockapp.exe
+C:\Users\karina.nicoleti\Desktop\stockapp\bin\Debug\net8.0\stockapp.deps.json
+C:\Users\karina.nicoleti\Desktop\stockapp\bin\Debug\net8.0\stockapp.runtimeconfig.json
+C:\Users\karina.nicoleti\Desktop\stockapp\bin\Debug\net8.0\stockapp.dll
+C:\Users\karina.nicoleti\Desktop\stockapp\bin\Debug\net8.0\stockapp.pdb
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.AssemblyInfoInputs.cache
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.AssemblyInfo.cs
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.csproj.CoreCompileInputs.cache
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.dll
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\refint\stockapp.dll
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.pdb
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\stockapp.genruntimeconfig.cache
+C:\Users\karina.nicoleti\Desktop\stockapp\obj\Debug\net8.0\ref\stockapp.dll
